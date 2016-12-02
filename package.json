@@ -62,7 +62,7 @@
     "insert-css": "^1.0.0",
     "moment": "^2.15.0",
     "react-color": "^2.4.3",
-    "react-datetime": "^2.6.0",
+    "react-datetime": "git+https://github.com/AaronAsAChimp/react-datetime.git#54fcea614d78a568ca23ed7476beeca677a6635b",
     "react-textarea-autosize": "^4.0.5"
   },
   "main": "dist/index.js",
